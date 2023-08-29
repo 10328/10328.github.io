@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.znl</groupId>
-    <artifactId>day</artifactId>
+    <artifactId>10328.github.io</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>day</name>
     <description>Demo project for Spring Boot</description>
